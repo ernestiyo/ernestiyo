@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning how to become a good engineer and also leaning into product management and development<br>👯 I’m looking to collaborate on **web development** and **game development**.<br>🌱 I’m currently learning **Golang**, diving deeper into **Data Structures and Algorithms**, and exploring more about backend development while also diving into **game development** as a passion.<br>
+🔭 I’m currently working as a freelancer and student @ UGM. I'm learning how to become a good engineer and also leaning into product management and development<br>👯 I’m looking to collaborate on **web development** and **game development**.<br>🌱 I’m currently learning **Golang**, diving deeper into **Data Structures and Algorithms**, and exploring more about backend development while also diving into **game development** as a passion.<br>
 
 
 ## 🌐 Socials:
